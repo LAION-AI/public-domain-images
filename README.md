@@ -6,8 +6,8 @@ A collection of public domain images donated for ML training. Pepole can put the
 
 ## Licenses
 
-✅ Completely open to research and academia (CC-4)
-⚠️ Only for academic research
+> ✅ Completely open to research and academia (CC-4)
+> ⚡️ Only for academic research
 
 ## List of public domain images
 
@@ -16,7 +16,7 @@ A collection of public domain images donated for ML training. Pepole can put the
 | robvanvolt   | [Google Drive](https://drive.google.com/drive/folders/1jVZUjJo0MTZvlgkkIS-O6LceVoCSankd?usp=sharing)     | Yellowstone National Park  | ✅ |
 | *name*     | [*Provider*](https://google.com)        | *short description*      | ✅ |
 | *name*     | [*Provider*](https://google.com)        | *short description*      | ✅ |
-| *name*     | [*Provider*](https://google.com)        | *short description*      | ✅ |
+| *name*     | [*Provider*](https://google.com)        | *short description*      | ⚡️ |
 
 
 ## Acknowledgements
