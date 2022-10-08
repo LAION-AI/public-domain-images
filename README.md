@@ -9,8 +9,6 @@ A collection of public domain images donated for ML training. Pepole can put the
 
 ## List of public domain images
 
-- 
-
 | Name | Link | Description | License |
 | :---         |     ---:      |          ---: | ---: |
 | robvanvolt   | [Google Drive](https://drive.google.com/drive/folders/1jVZUjJo0MTZvlgkkIS-O6LceVoCSankd?usp=sharing)     | Yellowstone National Park  | ✅ |
