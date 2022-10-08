@@ -1,4 +1,4 @@
-# public-domain-images
+# Public domain images
 
 A collection of public domain images donated for ML training. Pepole can put their photo on a web sharing hoster of their choice (google photo album, google drive, dropbox, or whatevery they prefer). ⚠️ **NO nudes / illegal stuff / gore** allowed! ⚠️
 
