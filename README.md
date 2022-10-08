@@ -6,7 +6,7 @@ A collection of public domain images donated for ML training. Pepole can put the
 
 ## Licenses
 
-> ✅ Completely open to research and academia (CC-4)
+> ✅ Completely open for research and private companies (CC-4)
 
 > ⚡️ Only for academic research
 
