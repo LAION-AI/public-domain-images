@@ -7,7 +7,7 @@ A collection of public domain images donated for ML training. Pepole can put the
 ✅ Completely open to research and academia (CC-4)
 ⚠️ Only for academic research
 
-## List of samples
+## List of public domain images
 
 - 
 
