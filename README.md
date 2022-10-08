@@ -1,6 +1,8 @@
 # Public domain images
 
-A collection of public domain images donated for ML training. Pepole can put their photo on a web sharing hoster of their choice (google photo album, google drive, dropbox, or whatevery they prefer). ⚠️ **NO nudes / illegal stuff / gore** allowed! ⚠️
+A collection of public domain images donated for ML training. Pepole can put their photo on a web sharing hoster of their choice (google photo album, google drive, dropbox, or whatevery they prefer).
+
+> ⚠️ For all provided images: **NO nudes / illegal stuff / gore** strictlyl forbidden!
 
 ## Licenses
 
